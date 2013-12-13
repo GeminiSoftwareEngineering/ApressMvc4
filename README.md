@@ -1,0 +1,1 @@
+This repository is for the examples in the book "Pro ASP.NET MVC 4" by Adam Freeman and Steven Sanderson from Apress
